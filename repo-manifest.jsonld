@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/craffel/mir_eval/commit/fe73b3533737814f83dbd9739f06e90f5f82f758",
       "git:hexsha": "fe73b3533737814f83dbd9739f06e90f5f82f758",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/craffel/mir_eval/commit/6c7e390248921a424239a97effff17c52f3404a5",
